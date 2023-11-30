@@ -1,0 +1,15 @@
+body {
+	 background-image: url("https://images.frandroid.com/wp-content/uploads/2019/05/windows-xp-hd.jpg");
+	 background-size: auto;
+  }
+  
+  #dragdiv {
+	position: absolute;
+	z-index: 9;
+  }
+
+  #dragdivheader {
+	padding: 10px;
+	cursor: move;
+	z-index: 10;
+  }
